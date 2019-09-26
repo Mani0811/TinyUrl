@@ -1,0 +1,11 @@
+C:\Mani\Git\TinyUrl\HoneyWell\bin\Debug\netcoreapp2.1\HoneyWell.deps.json
+C:\Mani\Git\TinyUrl\HoneyWell\bin\Debug\netcoreapp2.1\HoneyWell.runtimeconfig.json
+C:\Mani\Git\TinyUrl\HoneyWell\bin\Debug\netcoreapp2.1\HoneyWell.runtimeconfig.dev.json
+C:\Mani\Git\TinyUrl\HoneyWell\bin\Debug\netcoreapp2.1\HoneyWell.dll
+C:\Mani\Git\TinyUrl\HoneyWell\bin\Debug\netcoreapp2.1\HoneyWell.pdb
+C:\Mani\Git\TinyUrl\HoneyWell\obj\Debug\netcoreapp2.1\HoneyWell.csprojAssemblyReference.cache
+C:\Mani\Git\TinyUrl\HoneyWell\obj\Debug\netcoreapp2.1\HoneyWell.csproj.CoreCompileInputs.cache
+C:\Mani\Git\TinyUrl\HoneyWell\obj\Debug\netcoreapp2.1\HoneyWell.AssemblyInfoInputs.cache
+C:\Mani\Git\TinyUrl\HoneyWell\obj\Debug\netcoreapp2.1\HoneyWell.AssemblyInfo.cs
+C:\Mani\Git\TinyUrl\HoneyWell\obj\Debug\netcoreapp2.1\HoneyWell.dll
+C:\Mani\Git\TinyUrl\HoneyWell\obj\Debug\netcoreapp2.1\HoneyWell.pdb

@@ -1,0 +1,14 @@
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.csproj.CoreCompileInputs.cache
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.RazorAssemblyInfo.cache
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.RazorAssemblyInfo.cs
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.AssemblyInfoInputs.cache
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.AssemblyInfo.cs
+C:\Mani\Git\TinyUrl\TinyUrl\bin\Debug\netcoreapp2.1\TinyUrl.deps.json
+C:\Mani\Git\TinyUrl\TinyUrl\bin\Debug\netcoreapp2.1\TinyUrl.runtimeconfig.json
+C:\Mani\Git\TinyUrl\TinyUrl\bin\Debug\netcoreapp2.1\TinyUrl.runtimeconfig.dev.json
+C:\Mani\Git\TinyUrl\TinyUrl\bin\Debug\netcoreapp2.1\TinyUrl.dll
+C:\Mani\Git\TinyUrl\TinyUrl\bin\Debug\netcoreapp2.1\TinyUrl.pdb
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.RazorTargetAssemblyInfo.cache
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.dll
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.pdb
+C:\Mani\Git\TinyUrl\TinyUrl\obj\Debug\netcoreapp2.1\TinyUrl.csprojAssemblyReference.cache
